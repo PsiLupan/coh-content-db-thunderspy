@@ -1,5 +1,5 @@
-# coh-content-db-homecoming
-CoH Content DB - Homecoming data
+# coh-content-db-thunderspy
+CoH Content DB - Thundrspy data
 
 ### Build
 `npm run build`
@@ -10,9 +10,9 @@ CoH Content DB - Homecoming data
 Initialize the database, then load the homecoming data pack:
 ```
 import {CohContentDb} from "coh-content-db";
-import {Homecoming, HomecomingBadges} from "coh-content-db-homecoming";
+import {Thunderspy, ThunderspyBadges} from "coh-content-db-thunderspy";
 
 const contentDb = new CohContentDb();
-contentDb.load(new Homecoming());
-contentDb.load(new HomecomingBadges());
+contentDb.load(new Thunderspy());
+contentDb.load(new ThunderspyBadges());
 ```
