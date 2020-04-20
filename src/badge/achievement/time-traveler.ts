@@ -12,7 +12,7 @@ export const TimeTraveler: IBadgeData = {
         {value: "It seems you have mastered the recursive time flux of Lord Recluse's victory. You've spent 5 " +
         "hours here, though it seems like much longer."}
     ],
-    acquisition: "Spend 1 hour in Recluse's Victory",
+    acquisition: "Spend 5 hours in Recluse's Victory",
     links: [
         {title: "Time Traveler Badge", href: "https://paragonwiki.com/wiki/Time_Traveler_Badge"}
     ],

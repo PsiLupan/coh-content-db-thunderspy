@@ -14,7 +14,7 @@ export const WebMaster: IBadgeData = {
         {type: Alternate.V, value: "You are a well-known threat in the chaotic district of Warburg, having spent well over 5 hours " +
         "fighting Longbow."}
     ],
-    acquisition: "Spend 1 hour in Warburg",
+    acquisition: "Spend 5 hours in Warburg",
     links: [
         {title: "Web Master Badge", href: "https://paragonwiki.com/wiki/Web_Master_Badge"}
     ],

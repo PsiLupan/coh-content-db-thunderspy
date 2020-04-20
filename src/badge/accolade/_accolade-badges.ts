@@ -86,7 +86,6 @@ import {PurePraetorian} from "./pure-praetorian";
 import {RapidResponseMember} from "./rapid-response-member";
 import {ReceivedTheAtlasMedallion} from "./received-the-atlas-medallion";
 import {ReceivedTheStalwartMedallion} from "./received-the-stalwart-medallion";
-import {ReclusesBetrayer} from "./recluses-betrayer";
 import {ReturnVisitor} from "./return-visitor";
 import {Scientist} from "./scientist";
 import {SecurityChief} from "./security-chief";
@@ -221,7 +220,6 @@ export const AccoladeBadges: IBadgeData[] = [
     PraetoriasSon,
     TemperedThroughFire,
     Meticulous,
-    FashionVictim,
     ArenaAllStar,
     BugHunter,
     VIP,

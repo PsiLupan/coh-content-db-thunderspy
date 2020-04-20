@@ -11,7 +11,7 @@ export const Irradiated: IBadgeData = {
     badgeText: [
         {value: "You've basked for more than five hours in the weird radiation of Bloody Bay."}
     ],
-    acquisition: "Spend 1 hour in Bloody Bay",
+    acquisition: "Spend 5 hours in Bloody Bay",
     links: [
         {title: "Irradiated Badge", href: "https://paragonwiki.com/wiki/Irradiated_Badge"}
     ],
