@@ -7,7 +7,7 @@ CoH Content DB - Thunderspy data
 ### Publish
 `npm publish`
 
-Initialize the database, then load the homecoming data pack:
+Initialize the database, then load the Thunderspy data pack:
 ```
 import {CohContentDb} from "coh-content-db";
 import {Thunderspy, ThunderspyBadges} from "coh-content-db-thunderspy";
