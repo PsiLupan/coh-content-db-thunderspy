@@ -4,12 +4,12 @@ var UnminifiedWebpackPlugin = require('unminified-webpack-plugin');
 
 module.exports = {
     entry: {
-        'coh-content-db-homecoming': './src/index.ts'
+        'coh-content-db-thunderspy': './src/index.ts'
     },
     output: {
         path: path.resolve(__dirname, 'dist'),
         filename: '[name].js',
-        library: 'coh-content-db-homecoming',
+        library: 'coh-content-db-thunderspy',
         libraryTarget: 'umd'
     },
     resolve: {
