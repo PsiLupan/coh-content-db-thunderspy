@@ -15,8 +15,8 @@ import {ConsignmentBadges} from "./badge/consignment/_consignment-badges";
 import {DayJobBadges} from "./badge/day-job/_day-job-badges";
 import {AEBadges} from "./badge/ae/_ae-badges";
 
-export class HomecomingBadges implements IServerGroupData {
-    public readonly key: string = "homecoming";
+export class ThunderspyBadges implements IServerGroupData {
+    public readonly key: string = "thunderspy";
     public readonly badges: IBadgeData[] = [
         ...ExplorationBadges,
         ...HistoryBadges,
