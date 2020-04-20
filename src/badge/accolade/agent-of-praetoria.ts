@@ -12,7 +12,7 @@ export const AgentOfPraetoria: IBadgeData = {
     badgeText: [
         {value: `You stand on the fragile tipping point between Order and Chaos. Which way will you go?`}
     ],
-    notes: `Complete every story arc in [map:${NovaPraetoria.key}] to earn this badge. [Rewards 20 Merits]`,
+    notes: ``,
     links: [
         {title: "Agent of Praetoria Badge", href: "https://paragonwiki.com/wiki/Agent_of_Praetoria_Badge"}
     ],
