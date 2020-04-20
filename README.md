@@ -1,5 +1,5 @@
 # coh-content-db-thunderspy
-CoH Content DB - Thundrspy data
+CoH Content DB - Thunderspy data
 
 ### Build
 `npm run build`
