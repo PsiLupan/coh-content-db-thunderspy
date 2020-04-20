@@ -1,5 +1,5 @@
 import {ALIGNMENT_ANY, BadgeType, IBadgeData} from "coh-content-db";
-import {EchoRiktiCrashSite} from "../../map/echo-rikti-crash-site";
+import {RiktiWarZone} from "../../map/rikti-war-zone";
 
 export const Ace: IBadgeData = {
     type: BadgeType.EXPLORATION,
@@ -7,7 +7,7 @@ export const Ace: IBadgeData = {
     setTitleId: 145,
     names: [{value: "Ace"}],
     alignment: ALIGNMENT_ANY,
-    mapKey: EchoRiktiCrashSite.key,
+    mapKey: RiktiWarZone.key,
     location: [1360.0, 292.5, -276.9],
     badgeText: [{value: "This statue honors Mustang, a valiant hero who fought during WWII."}],
     notes: "**Moved from [map:rikti-war-zone] in Issue 25.**\n" +
