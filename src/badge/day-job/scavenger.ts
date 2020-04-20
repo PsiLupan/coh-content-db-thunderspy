@@ -12,7 +12,7 @@ export const Scavenger: IBadgeData = {
         value: "Your time spent scrounging in the wrecked city of First Ward has earned you the Scavenger Day Job." +
             " Logging out in First Ward will enable you to dig up extra Inspirations on mission complete for a short time after you log back in."
     }],
-    acquisition: "Log out anywhere in First Ward for 100 hours.",
+    acquisition: "Log out anywhere in First Ward for 21 days.",
     effect: "Day Job: Bonus Inspirations upon mission completion",
     links: [
         {title: "Scavenger Badge", href: "https://paragonwiki.com/wiki/Scavenger_Badge"},

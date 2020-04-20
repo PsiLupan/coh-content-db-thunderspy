@@ -21,7 +21,7 @@ export const Caregiver: IBadgeData = {
                 " Logging out in a Hospital will earn you a Regeneration Bonus, when you log back in, for a short time."
         }
     ],
-    acquisition: "Log out inside Hospitals for 100 hours.",
+    acquisition: "Log out inside Hospitals for 21 days.",
     effect: "Day Job: Out of combat Regeneration boost",
     links: [
         {title: "Caregiver Badge", href: "https://paragonwiki.com/wiki/Caregiver_Badge"},

@@ -17,7 +17,7 @@ export const CannonFodder: IBadgeData = {
         value: "Your work with the forces of Arachnos has earned you the Arachnos Agent Day Job." +
             " Logging out in an Arachnos Base will grant you an Experience bonus, when you log back in, each time you complete a mission for a short time."
     }],
-    acquisition: "Log out at Arachnos Bases with no hostile critters for 100 hours.",
+    acquisition: "Log out at Arachnos Bases with no hostile critters for 21 days.",
     effect: "Day Job: Bonus XP upon mission completion",
     links: [
         {title: "Cannon Fodder Badge", href: "https://paragonwiki.com/wiki/Cannon_Fodder_Badge"},

@@ -15,7 +15,7 @@ export const Predator: IBadgeData = {
         type: Alternate.V, value: "You spend your free time battling heroes in PvP zones earning you the Predator Day Job." +
             " Logging out in a PvP zone will earn you a bonus to your Recharge rate, when you log back in, for a short time."
     }],
-    acquisition: "Log out inside PvP Zones for 100 hours.",
+    acquisition: "Log out inside PvP Zones for 21 days.",
     effect: "Day Job: +Recharge",
     links: [
         {title: "Predator Badge", href: "https://paragonwiki.com/wiki/Predator_Badge"},

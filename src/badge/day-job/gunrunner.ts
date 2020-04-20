@@ -17,7 +17,7 @@ export const Gunrunner: IBadgeData = {
         value: "You spend your free time smuggling in illicit black market goods earning you the Smuggler Day Job." +
             " Logging out near a ferry will earn you a random enhancement, upon each mission completion, for a short time."
     }],
-    acquisition: "Log out at a Ferry for 100 hours.",
+    acquisition: "Log out at a Ferry for 21 days.",
     effect: "Day Job: Bonus Enhancement upon mission completion",
     links: [
         {title: "Gunrunner Badge", href: "https://paragonwiki.com/wiki/Gunrunner_Badge"},

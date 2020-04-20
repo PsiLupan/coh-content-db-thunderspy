@@ -15,7 +15,7 @@ export const Cimeroran: IBadgeData = {
         type: Alternate.V, value: "Your time spent plotting against the inhabitants of Cimerora has earned you the Cimeroran Day Job." +
             " Logging out in Cimerora will earn you a bonus to your damage resistance, when you log back in, for a short time."
     }],
-    acquisition: "Log out inside Cimerora for 100 hours.",
+    acquisition: "Log out inside Cimerora for 21 days.",
     effect: "Day Job: +Res(All)",
     links: [
         {title: "Cimeroran Badge", href: "https://paragonwiki.com/wiki/Cimeroran_Badge"},

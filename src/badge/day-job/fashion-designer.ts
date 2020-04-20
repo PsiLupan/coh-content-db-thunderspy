@@ -12,7 +12,7 @@ export const FashionDesigner: IBadgeData = {
         value: "You spend your free time perfecting your costume earning the Fashion Designer Day Job." +
             " Logging out at a Tailor will earn you a discount to Tailor fees, when you log back in, for a short time."
     }],
-    acquisition: "Log out inside Tailor buildings for 100 hours.",
+    acquisition: "Log out inside Tailor buildings for 21 days.",
     effect: "Day Job: Tailor discount tokens",
     links: [
         {title: "Fashion Designer Badge", href: "https://paragonwiki.com/wiki/Fashion_Designer_Badge"},

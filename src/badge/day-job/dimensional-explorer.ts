@@ -20,7 +20,7 @@ export const DimensionalExplorer: IBadgeData = {
             value: "Firebase Zulu has classified you as A.W.O.L., but they wouldn't welcome you if you showed up, either."
         }
     ],
-    acquisition: "Log out inside the Shadow Shard for 100 hours.",
+    acquisition: "Log out inside the Shadow Shard for 21 days.",
     effect: "Day Job: Jetpack",
     links: [
         {title: "Dimensional Explorer Badge", href: "https://paragonwiki.com/wiki/Dimensional_Explorer_Badge"},

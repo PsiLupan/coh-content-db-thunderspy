@@ -12,7 +12,7 @@ export const Architect: IBadgeData = {
         value: "Your study of the Mission Architect system has earned you the Architect Day Job." +
             " Logging out in the Mission Architect will earn you 2 bonus Mission Architect Tickets, when you log back in, each time you complete a mission for a short time."
     }],
-    acquisition: "Log out inside Architect Entertainment buildings for 100 hours.",
+    acquisition: "Log out inside Architect Entertainment buildings for 21 days.",
     effect: "Day Job: Bonus Mission Architect tickets upon mission completion",
     links: [
         {title: "Architect Badge", href: "https://paragonwiki.com/wiki/Architect_Badge"},

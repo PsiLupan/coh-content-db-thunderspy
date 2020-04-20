@@ -20,7 +20,7 @@ export const Intern: IBadgeData = {
             value: "You wouldn't make it past the guards at Portal Corps nowadays, but at least you never have to make the coffee anymore."
         }
     ],
-    acquisition: "Log out inside Portal Corps for 100 hours.",
+    acquisition: "Log out inside Portal Corps for 21 days.",
     effect: "Day Job: Bonus Large Inspiration upon mission completion",
     links: [
         {title: "Intern Badge", href: "https://paragonwiki.com/wiki/Intern_Badge"},

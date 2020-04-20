@@ -18,7 +18,7 @@ export const Banker: IBadgeData = {
         value: "Your time spent staging heists on the various financial institutions of the Rogue Isles has earned you the Thief Day Job." +
             " Logging out in a Vault will earn you an Infamy Bonus, when you log back in, each time you complete a mission for a short time."
     }],
-    acquisition: "Log out at a Vault Reserve for 100 hours.",
+    acquisition: "Log out at a Vault Reserve for 21 days.",
     effect: "Day Job: Bonus Influence upon mission completion",
     links: [
         {title: "Banker Badge", href: "https://paragonwiki.com/wiki/Banker_Badge"},

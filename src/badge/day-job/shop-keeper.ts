@@ -21,7 +21,7 @@ export const ShopKeeper: IBadgeData = {
                 " Logging out in a store will earn you a random enhancement, upon each mission completion, for a short time."
         }
     ],
-    acquisition: "Log out inside Stores for 100 hours.",
+    acquisition: "Log out inside Stores for 21 days.",
     effect: "Day Job: Bonus enhancement upon mission completion",
     links: [
         {title: "Shop Keeper Badge", href: "https://paragonwiki.com/wiki/Shop_Keeper_Badge"},

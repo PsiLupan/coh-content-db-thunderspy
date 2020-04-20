@@ -17,7 +17,7 @@ export const Grounded: IBadgeData = {
         value: "You have aided Arachnos by piloting its fliers, helping Lord Recluse better mobilize his troops, earning you the Pilot Day Job." +
             " Logging out near a Black Helicopter will earn you a Speed Bonus, when you log back in, for a short time."
     }],
-    acquisition: "Log out at the Black Helicopter Line for 100 hours.",
+    acquisition: "Log out at the Black Helicopter Line for 21 days.",
     effect: "Day Job: +Movement Speed",
     links: [
         {title: "Grounded Badge", href: "https://paragonwiki.com/wiki/Grounded_Badge"},

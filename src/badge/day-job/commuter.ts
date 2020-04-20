@@ -20,7 +20,7 @@ export const Commuter: IBadgeData = {
             value: "You miss the monorails of Paragon City, but in the Rogue Isles it would just be too impractical."
         }
     ],
-    acquisition: "Log out inside Train Stations for 100 hours.",
+    acquisition: "Log out inside Train Stations for 21 days.",
     effect: "Day Job: +Movement Speed",
     links: [
         {title: "Commuter Badge", href: "https://paragonwiki.com/wiki/Commuter_Badge"},

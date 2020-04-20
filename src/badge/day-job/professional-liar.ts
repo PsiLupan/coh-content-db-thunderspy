@@ -17,7 +17,7 @@ export const ProfessionalLiar: IBadgeData = {
         value: "You spend your free time spreading Arachnos propaganda to better manipulate and placate the masses of the Rogue Isles earning you the Demagogue Day Job." +
             " Logging out in the Arachnos Building in Marconeville will earn you an Infamy bonus, upon each mission completion, for a short time."
     }],
-    acquisition: "Log out at the Arachnos Building in Marconeville for 100 hours.",
+    acquisition: "Log out at the Arachnos Building in Marconeville for 21 days.",
     effect: "Day Job: Bonus Infamy upon mission completion",
     links: [
         {title: "Professional Liar Badge", href: "https://paragonwiki.com/wiki/Professional_Liar_Badge"},

@@ -12,7 +12,7 @@ export const Mortician: IBadgeData = {
         value: "Your time spent studying death itself has earned you the Mortician Day Job." +
             " Logging out in a graveyard will earn you protection against Experience Debt, when you log back in, for a short time."
     }],
-    acquisition: "Log out a Graveyard for 100 hours.",
+    acquisition: "Log out a Graveyard for 21 days.",
     effect: "Day Job: XP Debt protection",
     links: [
         {title: "Mortician Badge", href: "https://paragonwiki.com/wiki/Mortician_Badge"},

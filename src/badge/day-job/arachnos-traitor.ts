@@ -17,7 +17,7 @@ export const ArachnosTraitor: IBadgeData = {
         value: "Your time spent working with the Arachnos Arbiters has earned you the Arachnos Official Day Job." +
             " Logging out in Grandville will earn you Jetpack power, when you log back in, for a short time."
     }],
-    acquisition: "Log out within Grandville for 100 hours.",
+    acquisition: "Log out within Grandville for 21 days.",
     effect: "Day Job: Jetpack",
     links: [
         {title: "Arachnos Traitor Badge", href: "https://paragonwiki.com/wiki/Arachnos_Traitor_Badge"},

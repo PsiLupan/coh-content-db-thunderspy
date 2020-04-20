@@ -21,7 +21,7 @@ export const Patroller: IBadgeData = {
         type: Alternate.P,
         value: "You have spent your free time on the streets, Praetorian or otherwise, earning the Patroller Day Job."
     }],
-    acquisition: "Log out anywhere for 100 hours.",
+    acquisition: "Log out anywhere for 30 days and/or earn 30 bars of Patrol experience through the Experienced power.",
     effect: "Day Job: Patrol XP",
     links: [
         {title: "Patroller Badge", href: "https://paragonwiki.com/wiki/Patroller_Badge"},

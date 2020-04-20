@@ -15,7 +15,7 @@ export const Professor: IBadgeData = {
         type: Alternate.V, value: "Your studies at the universites of the Rogue Isles during your free time has earned you the Professor Day Job." +
             " Logging out in a University will earn you a random piece of Tech Salvage, when you log back in, each time you complete a mission for a short time."
     }],
-    acquisition: "Log out inside University buildings for 100 hours.",
+    acquisition: "Log out inside University buildings for 21 days.",
     effect: "Day Job: Bonus Tech Salvage upon mission completion",
     links: [
         {title: "Professor Badge", href: "https://paragonwiki.com/wiki/Professor_Badge"},

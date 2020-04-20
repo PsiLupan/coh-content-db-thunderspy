@@ -20,7 +20,7 @@ export const CityOfficial: IBadgeData = {
             value: "You were unceremoniously ejected from your position in Paragon City government when you became a villain."
         }
     ],
-    acquisition: "Log out inside City Hall or the Freedom Corps headquarters for 100 hours.",
+    acquisition: "Log out inside City Hall or the Freedom Corps headquarters for 21 days.",
     effect: "Day Job: Bonus Influence upon mission completion",
     links: [
         {title: "City Official Badge", href: "https://paragonwiki.com/wiki/City_Official_Badge"},

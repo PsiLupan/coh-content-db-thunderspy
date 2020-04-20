@@ -12,7 +12,7 @@ export const MonitorDuty: IBadgeData = {
         value: "Your time spent protecting your Supergroup's base has earned you the Monitor Duty Day Job." +
             " Logging out in your Supergroup base will earn you a Prestige bonus, when you log back in, each time you complete a mission for a short time."
     }],
-    acquisition: "Log out inside your Supergroup Base for 100 hours.",
+    acquisition: "Log out inside your Supergroup Base for 21 days.",
     effect: "Day Job: Base Teleporter",
     links: [
         {title: "Monitor Duty Badge", href: "https://paragonwiki.com/wiki/Monitor_Duty_Badge"},

@@ -17,7 +17,7 @@ export const CreyTestSubject: IBadgeData = {
         value: "Your work with Crey Industries has earned you the Crey Employee Day Job." +
             " Logging out in the Crey Industries building will grant you a random Large Inspiration, after you log back in, each time you complete a mission for a short time."
     }],
-    acquisition: "Log out in the Crey building in Nerva Archipelago for 100 hours.",
+    acquisition: "Log out in the Crey building in Nerva Archipelago for 21 days.",
     effect: "Day Job: Bonus Large Inspiration upon mission completion",
     links: [
         {title: "Crey Test Subject Badge", href: "https://paragonwiki.com/wiki/Crey_Test_Subject_Badge"},

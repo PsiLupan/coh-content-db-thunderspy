@@ -12,7 +12,7 @@ export const Chronologist: IBadgeData = {
         value: "You have spent a great deal of time working with the agents of Ouroboros earning you the Chronologist Day Job." +
             " Logging out in Ouroboros will earn you a bonus enhancement recipe, when you log back in, each time you complete a mission for a short time."
     }],
-    acquisition: "Log out inside Ouroboros for 100 hours.",
+    acquisition: "Log out inside Ouroboros for 21 days.",
     effect: "Day Job: Bonus Recipe upon mission completion",
     links: [
         {title: "Chronologist Badge", href: "https://paragonwiki.com/wiki/Chronologist_Badge"},

@@ -20,7 +20,7 @@ export const LawEnforcer: IBadgeData = {
             value: "The Paragon Police Department has severed its ties with you now that you're a villain."
         }
     ],
-    acquisition: "Log out inside Police Stations for 100 hours.",
+    acquisition: "Log out inside Police Stations for 21 days.",
     effect: "Day Job: XP bonus upon mission completion",
     links: [
         {title: "Law Enforcer Badge", href: "https://paragonwiki.com/wiki/Law_Enforcer_Badge"},

@@ -18,7 +18,7 @@ export const DayTrader: IBadgeData = {
         value: "Your time spent supplying the Black Market has earned you the Marketeer Day Job." +
             " Logging out near a Black Market will grant you a power that will allow you to teleport to a Black Market of your choice, when you log back in."
     }],
-    acquisition: "Log out at a Consignment House for 100 hours.",
+    acquisition: "Log out at a Consignment House for 21 days.",
     effect: "Day Job: Teleport to Consignment House",
     links: [
         {title: "Day Trader Badge", href: "https://paragonwiki.com/wiki/Day Trader_Badge"},

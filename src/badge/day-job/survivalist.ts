@@ -12,7 +12,7 @@ export const Survivalist: IBadgeData = {
         value: "Your time spent learning from the hearty Survivors of First Ward has earned you the Survivalist Day Job." +
             " Logging out in the Survivor Compound will earn you a bonus chance to earn recipes on mission complete for a short time when you log back in."
     }],
-    acquisition: "Log out at the Survivor Compound in First Ward for 100 hours.",
+    acquisition: "Log out at the Survivor Compound in First Ward for 21 days.",
     effect: "Day Job: Bonus Recipe upon mission completion",
     links: [
         {title: "Survivalist Badge", href: "https://paragonwiki.com/wiki/Survivalist_Badge"},
