@@ -66,23 +66,6 @@ import {SecretAdmirer} from "./secret-admirer";
 import {HeroCorpsRecruit} from "./hero-corps-recruit";
 import {NimbleMynx} from "./nimble-mynx";
 import {BrightStar} from "./bright-star";
-import {WhatLurksBeyond} from "./what-lurks-beyond";
-import {Restless} from "./restless";
-import {MostlyHarmless} from "./mostly-harmless";
-import {Burgermeister} from "./burgermeister";
-import {AScarInTime} from "./a-scar-in-time";
-import {TrueNeutral} from "./true-neutral";
-import {WatchYourBack} from "./watch-your-back";
-import {SickOfTimeTravel} from "./sick-of-time-travel";
-import {HotDog} from "./hot-dog";
-import {StillStanding} from "./still-standing";
-import {Volatile} from "./volatile";
-import {WastedResources} from "./wasted-resources";
-import {Nuclear} from "./nuclear";
-import {ForciblyEvicted} from "./forcibly-evicted";
-import {Disassembled} from "./disassembled";
-import {GameOver} from "./game-over";
-import {Herculean} from "./herculean";
 import {Hangman} from "./hangman";
 import {Politician} from "./politician";
 import {BroadShoulders} from "./broad-shoulders";
@@ -95,17 +78,9 @@ import {EscapeArtist} from "./escape-artist";
 import {DrownedRat} from "./drowned-rat";
 import {OldFashioned} from "./old-fashioned";
 import {EggHunter} from "./egg-hunter";
-import {Upcycled} from "./upcycled";
-import {Riveting} from "./riveting";
-import {RockBottom} from "./rock-bottom";
 import {Newsman} from "./newsman";
 import {FaultlessMystic} from "./faultless-mystic";
 import {Apex} from "./apex";
-import {Forsaken} from "./forsaken";
-import {Pristine} from "./pristine";
-import {ClaimDenied} from "./claim-denied";
-import {SpareParts} from "./spare-parts";
-import {DugTooDeep} from "./dug-too-deep";
 import {HeartOfTheCity} from "./heart-of-the-city";
 import {KingsRighteousness} from "./kings-righteousness";
 import {CourageDriven} from "./courage-driven";
@@ -132,7 +107,6 @@ import {UnderFire} from "./under-fire";
 import {Scarred} from "./scarred";
 import {Asunder} from "./asunder";
 import {Eyewitness} from "./eyewitness";
-import {CommunicationsSpecialist} from "./communications-specialist";
 import {Shielded} from "./shielded";
 import {Chrononaut} from "./chrononaut";
 import {DepthsOfTime} from "./depths-of-time";
@@ -449,22 +423,11 @@ import {DarkGarden} from "./dark-garden";
 import {GrimFandango} from "./grim-fandango";
 import {MisfitMonstrosity} from "./misfit-monstrosity";
 import {MonsterFactory} from "./monster-factory";
-import {Trustworthy} from "./trustworthy";
 import {Knowledgeable} from "./knowledgeable";
-import {Virtuous} from "./virtuous";
-import {Rookie} from "./rookie";
-import {Condemned} from "./condemned";
-import {Resilient} from "./resilient";
-import {OutOfHarmsWay} from "./out-of-harms-way";
-import {CityTraveler} from "./city-traveler";
-import {TriedAndTrue} from "./tried-and-true";
 
 export const ExplorationBadges: IBadgeData[] = [
     //Bloody Bay
     Lobbyist, Hungry, Imploding, Ghoulish,
-
-    //Bloody Bay I25 Page 3
-    WhatLurksBeyond, Burgermeister, MostlyHarmless, Restless,
 
     //Cap au Diable Pt1
     Sparky, MediaJunky, Egghead, Steamed, SweetTooth,
@@ -484,17 +447,11 @@ export const ExplorationBadges: IBadgeData[] = [
     //Recluse's Victory
     Globetrotter, Ragnarok, TemporalFighter, LastStand,
 
-    //Recluses Victory I25 Page 3
-    AScarInTime, TrueNeutral, SickOfTimeTravel, WatchYourBack,
-
     //Sharkhead Isle Pt1
     RazorToothed, ForgedByHellfire, FreakOfNature, PitViper,
 
     //Siren's Call
     Hangman, Politician, BroadShoulders, Piratical,
-
-    //Siren's Call I25 Page 3
-    WastedResources, HotDog, StillStanding, Volatile,
 
     //St. Martial Pt1
     DeucesWild, Paroled, Stonekeeper, CamelSnot,
@@ -504,9 +461,6 @@ export const ExplorationBadges: IBadgeData[] = [
 
     //Warburg
     WeaponInspector, TunnelRat, Triumphant,
-
-    //Warburg I25 Page 3
-    Disassembled,  ForciblyEvicted, Herculean, Nuclear, GameOver,
 
     //Mayhem Missions
     GlobalGuardian, KingMaker, RoadRaged, SteelWorker, Revolutionary, TalonOfTalos, Brickhouse, Libertarian, GateCloser,
@@ -592,9 +546,6 @@ export const ExplorationBadges: IBadgeData[] = [
     //Peregrine Island
     UseMightForRight, CauseForConcern, GeneticallyAltered, RiktiGoneWild, ShadesOfArachnos, AllSeeing, DarkOmen,
 
-    //Hero One Memorial Badge
-    TriedAndTrue,
-
     //Nova Praetoria
     Ambitious, CitizenCole, CivicMinded, GuardiansOfJustice, IntoTheWild, Technophile, UnCivilSociety, OnTheWaterfront,
 
@@ -673,9 +624,6 @@ export const ExplorationBadges: IBadgeData[] = [
     //Atlas Park
     Undefeated, SilentSentinel, HeroCorpsInsider, Patriot, TopDog, Freedom, EdgeOfChaos, Observant,
 
-    //Echo: Atlas Park
-    Rookie, Trustworthy, Knowledgeable, CityTraveler, OutOfHarmsWay, Condemned, Resilient, Virtuous,
-
     //Black Shroud Dimension
     Shrouded,
 
@@ -697,14 +645,11 @@ export const ExplorationBadges: IBadgeData[] = [
     //Faultline Pt2
     Undammed, EscapeArtist, DrownedRat, OldFashioned,
 
-    //Faultline I25
-    Riveting, Upcycled, RockBottom,
-
     //Faultline Pt3
     EggHunter,
 
-    //Echo: Faultline I25
-    Newsman, FaultlessMystic, Apex, Forsaken, Pristine, ClaimDenied, SpareParts, DugTooDeep,
+    //Fautline Pt 4
+    Newsman, FaultlessMystic, Apex, 
 
     //Founders' Falls Pt2
     Foggy, Chaotician,
@@ -730,7 +675,7 @@ export const ExplorationBadges: IBadgeData[] = [
     //Perez Park Pt2
     Territorial, Avatar, AroundTheBendis, DocWhedon, JusticeAvenger,
 
-    //Echo: Rikti Crash Site, Pt 2
+    //Rikti War Zone Pt 2
     Ace,
 
     //Skyway City Pt2
@@ -759,9 +704,6 @@ export const ExplorationBadges: IBadgeData[] = [
 
     //Night Ward
     NocturnalPilgrim, HappyCamper, HouseHunter, AbandonedSoul, DeadButDreaming, FollowTheLight, Monolithic, Stargazer,
-
-    //Echo: Rikti Crash Site I25
-    CommunicationsSpecialist, Shielded,
 
     //Croatoa Pt2
     GrimWanderer, Spiritual, Ensorcelled,

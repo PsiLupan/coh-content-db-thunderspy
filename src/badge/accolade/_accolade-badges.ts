@@ -10,7 +10,6 @@ import {AgentOfPraetoria} from "./agent-of-praetoria";
 import {Alchemist} from "./alchemist";
 import {AllYourFirebase} from "./all-your-firebase";
 import {AlphaUnlocked} from "./alpha-unlocked";
-import {AnsweredTheCall} from "./answered-the-call";
 import {AntiArachnosActivist} from "./anti-arachnos-activist";
 import {AntiVenom} from "./anti-venom";
 import {ApprenticePlumber} from "./apprentice-plumber";
@@ -19,7 +18,6 @@ import {Archmage} from "./archmage";
 import {ArenaAllStar} from "./arena-all-star";
 import {AtlasTourGuide} from "./atlas-tour-guide";
 import {AwardedTheFreedomCross} from "./awarded-the-freedom-cross";
-import {BadBlood} from "./bad-blood";
 import {BeneathTheEmpire} from "./beneath-the-empire";
 import {BlockadeRunner} from "./blockade-runner";
 import {BoomGoesTheTown} from "./boom-goes-the-town";
@@ -32,7 +30,6 @@ import {CanyonCarver} from "./canyon-carver";
 import {CascadeCleansing} from "./cascade-cleansing";
 import {CitizenOfSalamanca} from "./citizen-of-salamanca";
 import {ConspiracyTheorist} from "./conspiracy-theorist";
-import {CrashLanded} from "./crash-landed";
 import {CrazyForCreysFolly} from "./crazy-for-creys-folly";
 import {Defector} from "./defector";
 import {DestinyUnlocked} from "./destiny-unlocked";
@@ -41,7 +38,6 @@ import {Determined} from "./determined";
 import {EarnedTheStatesmanStar} from "./earned-the-statesman-star";
 import {EmperorForADay} from "./emperor-for-a-day";
 import {Entrepreneur} from "./entrepreneur";
-import {Epicenter} from "./epicenter";
 import {EtherealDrifter} from "./ethereal-drifter";
 import {ExMarshal} from "./ex-marshal";
 import {Excavator} from "./excavator";
@@ -101,7 +97,6 @@ import {RisingStar} from "./rising-star";
 import {Scientist} from "./scientist";
 import {SecurityChief} from "./security-chief";
 import {SharkBait} from "./shark-bait";
-import {ShatteredTime} from "./shattered-time";
 import {SkyGazer} from "./sky-gazer";
 import {Socialite} from "./socialite";
 import {StormingThePalace} from "./storming-the-palace";
@@ -111,7 +106,6 @@ import {StraightThroughStriga} from "./straight-through-striga";
 import {TaskForceCommander} from "./task-force-commander";
 import {TemperedThroughFire} from "./tempered-through-fire";
 import {TheConstant} from "./the-constant";
-import {TheyAreStillAmongUs} from "./they-are-still-among-us";
 import {ThornRobber} from "./thorn-robber";
 import {ThornThief} from "./thorn-thief";
 import {ThornUsurper} from "./thorn-usurper";
@@ -125,7 +119,6 @@ import {Vanguard} from "./vanguard";
 import {Vigilant} from "./vigilant";
 import {VIP} from "./vip";
 import {VivaPraetoria} from "./viva-praetoria";
-import {Warlord} from "./warlord";
 import {Watchman} from "./watchman";
 import {Whistleblower} from "./whistleblower";
 import {WincottsAlly} from "./wincotts-ally";
@@ -184,7 +177,6 @@ export const AccoladeBadges: IBadgeData[] = [
     CanyonCarver,
     SkyGazer,
     FaultlineFinder,
-    Epicenter,
     CitizenOfSalamanca,
     IslandHopper,
     IPAddress,
@@ -212,8 +204,6 @@ export const AccoladeBadges: IBadgeData[] = [
     ALightInDarkAstorias,
     StraightThroughStriga,
     CrazyForCreysFolly,
-    TheyAreStillAmongUs,
-    CrashLanded,
     AllYourFirebase,
     CascadeCleansing,
     CantStopTheChant,
@@ -225,10 +215,6 @@ export const AccoladeBadges: IBadgeData[] = [
     StormingThePalace,
     TouchedBottom,
     HonoraryMonster,
-    BadBlood,
-    AnsweredTheCall,
-    Warlord,
-    ShatteredTime,
     AlphaUnlocked,
     JudgementUnlocked,
     InterfaceUnlocked,
