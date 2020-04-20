@@ -8,7 +8,7 @@ export const Apex: IBadgeData = {
     names: [{value: "Apex"}],
     alignment: ALIGNMENT_HERO,
     badgeText: [{value: `Apex tracked Dr. Vahzilok down to this location, but interference from the Circle of Thorns prevented him from capturing the mad scientist.`}],
-    mapKey: EchoFaultline.key,
+    mapKey: Faultline.key,
     location: [277.7, 57.1, -2257.8],
     notes: "Approx. 140 yrds SW of the \"Subduction\" marker on top of a parking structure.",
     links: [
