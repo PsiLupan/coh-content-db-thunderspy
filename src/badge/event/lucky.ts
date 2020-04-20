@@ -11,7 +11,7 @@ export const Lucky: IBadgeData = {
     badgeText: [
         {value: "You have helped celebrate the 7th anniversary of City of Heroes/Villains."},
     ],
-    acquisition: "Available for purchase from Luna in Ouroboros during the anniversary event in May.",
+    acquisition: "",
     links: [
         {title: "Lucky Badge", href: "https://paragonwiki.com/wiki/Lucky_Badge"}
     ],

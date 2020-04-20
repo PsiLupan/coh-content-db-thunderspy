@@ -12,7 +12,7 @@ export const TrueToTheLast: IBadgeData = {
     badgeText: [
         {value: `Wherever you must go, whatever you must do, Praetoria will always & forever be your home, and to it you shall be True to the Last.`}
     ],
-    notes: `Complete every story arc in [map:${Neutropolis.key}] to earn this badge. [Rewards 20 Merits]`,
+    notes: ``,
     links: [
         {title: "True to the Last Badge", href: "https://paragonwiki.com/wiki/True_to_the_Last_Badge"}
     ],

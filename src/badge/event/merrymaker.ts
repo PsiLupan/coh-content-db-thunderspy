@@ -11,7 +11,7 @@ export const Merrymaker: IBadgeData = {
     badgeText: [
         {value: "You have helped celebrate the 3rd anniversary of City of Heroes."},
     ],
-    acquisition: "Available for purchase from Luna in Ouroboros during the anniversary event in May.",
+    acquisition: "",
     links: [
         {title: "Merrymaker Badge", href: "https://paragonwiki.com/wiki/Merrymaker_Badge"}
     ],

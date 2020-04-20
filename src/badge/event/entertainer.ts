@@ -11,7 +11,7 @@ export const Entertainer: IBadgeData = {
     badgeText: [
         {value: "You have helped celebrate the 4th anniversary of City of Heroes/Villains."},
     ],
-    acquisition: "Available for purchase from Luna in Ouroboros during the anniversary event in May.",
+    acquisition: "",
     links: [
         {title: "Entertainer Badge", href: "https://paragonwiki.com/wiki/Entertainer_Badge"}
     ],
