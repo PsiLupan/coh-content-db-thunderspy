@@ -11,7 +11,6 @@ import {Blindsider} from "./blindsider";
 import {BloodyHands} from "./bloody-hands";
 import {BombSpecialist} from "./bomb-specialist";
 import {Bonecrusher} from "./bonecrusher";
-import {Buddy} from "./buddy";
 import {Cannibal} from "./cannibal";
 import {CapBuster} from "./cap-buster";
 import {Castigator} from "./castigator";
@@ -26,7 +25,6 @@ import {Devilfish} from "./devilfish";
 import {DimensionalWarder} from "./dimensional-warder";
 import {Diplomat} from "./diplomat";
 import {DisappearingAct} from "./disappearing-act";
-import {Doorbuster} from "./doorbuster";
 import {DUSTInTheWind} from "./dust-in-the-wind";
 import {Ectoplasmic} from "./ectoplasmic";
 import {Electrician} from "./electrician";
@@ -53,7 +51,6 @@ import {Hellspawned} from "./hellspawned";
 import {Illusionist} from "./illusionist";
 import {Infiltrator} from "./infiltrator";
 import {Isolator} from "./isolator";
-import {ItsyBitsy} from "./itsy-bitsy";
 import {JudgeJury} from "./judge-jury";
 import {KeeperOfBeasts} from "./keeper-of-beasts";
 import {KeeperOfSecrets} from "./keeper-of-secrets";
@@ -94,7 +91,6 @@ import {StrikeBuster} from "./strike-buster";
 import {Surging} from "./surging";
 import {TankBuster} from "./tank-buster";
 import {Technophobe} from "./technophobe";
-import {Terminator} from "./terminator";
 import {TheMongoose} from "./the-mongoose";
 import {TheSilverBullet} from "./the-silver-bullet";
 import {TheSlayer} from "./the-slayer";
@@ -110,8 +106,6 @@ import {VillainDisruptor} from "./villain-disruptor";
 import {Visionary} from "./visionary";
 import {Volcanic} from "./volcanic";
 import {VolunteerFirefighter} from "./volunteer-firefighter";
-import {WarMachine} from "./war-machine";
-import {WarTorn} from "./war-torn";
 import {Warden} from "./warden";
 import {WatchesTheWatchers} from "./watches-the-watchers";
 import {Weatherman} from "./weatherman";
@@ -128,7 +122,6 @@ export const DefeatBadges: IBadgeData[] = [
     GoonSquad,
     Electrician,
     Centurion,
-    Terminator,
     Isolator,
     Gearsmasher,
     Coldblooded,
@@ -137,11 +130,8 @@ export const DefeatBadges: IBadgeData[] = [
     WeedWhacker,
     TheSilverBullet,
     TheSlayer,
-    WarTorn,
-    WarMachine,
     Infiltrator,
     Protectorate,
-    Buddy,
     Gangbuster,
     Untouchable,
     TankBuster,
@@ -207,7 +197,6 @@ export const DefeatBadges: IBadgeData[] = [
     Silencer,
     Castigator,
     Exorcist,
-    Doorbuster,
     BloodyHands,
     ThinLine,
     Locksmith,
@@ -217,7 +206,6 @@ export const DefeatBadges: IBadgeData[] = [
     WhipCracker,
     EyeOfTheStorm,
     Roman,
-    ItsyBitsy,
     DimensionalWarder,
     PositronsPal,
     StatesmansPal,
