@@ -11,7 +11,7 @@ export const Pirate: IBadgeData = {
     badgeText: [
         {value: "You have trapped 10 Ghosts.  You are now an honorary Pirate."}
     ],
-    acquisition: "Defeat 100 Spectral Pirates.",
+    acquisition: "Trap 10 Spectral Pirates in Port Hades, Port Oakes",
     links: [
         {title: "Pirate Badge", href: "https://paragonwiki.com/wiki/Pirate_Badge"}
     ],
