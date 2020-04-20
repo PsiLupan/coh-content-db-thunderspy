@@ -1,20 +1,13 @@
 import {IBadgeData} from "coh-content-db";
-import {Reveler} from "./reveler";
-import {Pursuer} from "./pursuer";
 import {Celebrant} from "./celebrant";
+import {Reveler} from "./reveler";
 import {Merrymaker} from "./merrymaker";
 import {Entertainer} from "./entertainer";
 import {Jubilant} from "./jubilant";
 import {Exultant} from "./exultant";
 import {Lucky} from "./lucky";
 import {Rhapsodic} from "./rhapsodic";
-import {Torchbearer} from "./torchbearer";
-import {Unstoppable} from "./unstoppable";
-import {Perseverant} from "./perseverant";
-import {Indomitable} from "./indomitable";
-import {Timeless} from "./timeless";
-import {Everlasting} from "./everlasting";
-import {Excelsior} from "./excelsior";
+import {Pursuer} from "./pursuer";
 import {HeartOfLight} from "./heart-of-light";
 import {Partygoer} from "./partygoer";
 import {Handsome} from "./handsome";
@@ -90,13 +83,6 @@ export const EventBadges: IBadgeData[] = [
     Exultant,
     Lucky,
     Rhapsodic,
-    Torchbearer,
-    Unstoppable,
-    Perseverant,
-    Indomitable,
-    Timeless,
-    Everlasting,
-    Excelsior,
     Pursuer,
     HallowSpirit,
     IronWarrior,
