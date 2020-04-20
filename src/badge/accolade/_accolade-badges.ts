@@ -30,7 +30,6 @@ import {BusyBusyBee} from "./busy-busy-bee";
 import {CantStopTheChant} from "./cant-stop-the-chant";
 import {CanyonCarver} from "./canyon-carver";
 import {CascadeCleansing} from "./cascade-cleansing";
-import {Chronomaster} from "./chronomaster";
 import {CitizenOfSalamanca} from "./citizen-of-salamanca";
 import {ConspiracyTheorist} from "./conspiracy-theorist";
 import {CrashLanded} from "./crash-landed";
@@ -126,7 +125,6 @@ import {Vanguard} from "./vanguard";
 import {Vigilant} from "./vigilant";
 import {VIP} from "./vip";
 import {VivaPraetoria} from "./viva-praetoria";
-import {WalkedDownMemoryLane} from "./walked-down-memory-lane";
 import {Warlord} from "./warlord";
 import {Watchman} from "./watchman";
 import {Whistleblower} from "./whistleblower";
@@ -180,7 +178,6 @@ export const AccoladeBadges: IBadgeData[] = [
     TheConstant,
     VivaPraetoria,
     AtlasTourGuide,
-    WalkedDownMemoryLane,
     WincottsAlly,
     GalacticExplorer,
     PPDInformant,
@@ -267,6 +264,5 @@ export const AccoladeBadges: IBadgeData[] = [
     AwardedTheFreedomCross,
     DestroyerOfDespair,
     GeasOfTheKindOnes,
-    Chronomaster,
     FlamesOfPrometheus,
 ];
