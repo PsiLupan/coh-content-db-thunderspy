@@ -11,7 +11,7 @@ export const Disruptor: IBadgeData = {
     badgeText: [
         {value: "You've achieved a PvP Reputation of 400."}
     ],
-    acquisition: "Achieve 50 kills in a PvP zone",
+    acquisition: "Achieve a reputation of 400 in a PvP zone",
     links: [
         {title: "Disruptor Badge", href: "https://paragonwiki.com/wiki/Disruptor_Badge"}
     ],

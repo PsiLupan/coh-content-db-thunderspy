@@ -11,7 +11,7 @@ export const ForwardObserver: IBadgeData = {
     badgeText: [
         {value: "You've achieved a PvP Reputation of 100"}
     ],
-    acquisition: "Achieve 20 kills in a PvP zone",
+    acquisition: "Achieve a reputation of 100 in a PvP zone",
     links: [
         {title: "Forward Observer Badge", href: "https://paragonwiki.com/wiki/Forward_Observer_Badge"}
     ],

@@ -36,7 +36,6 @@ import {SuperHeavyweightChampion} from "./super-heavyweight-champion";
 import {TemporalAgent} from "./temporal-agent";
 import {TemporalSoldier} from "./temporal-soldier";
 import {TemporalSpy} from "./temporal-spy";
-import {TempusFugitive} from "./tempus-fugitive";
 import {TimeMachinist} from "./time-machinist";
 import {TournamentVictor} from "./tournament-victor";
 import {Uppercut} from "./uppercut";
@@ -61,7 +60,6 @@ export const PvpBadges: IBadgeData[] = [
     TemporalAgent,
     TemporalSpy,
     TemporalSoldier,
-    TempusFugitive,
     Arachnophobic,
     Wrangler,
     Poltergeist,

@@ -11,7 +11,7 @@ export const TemporalSpy: IBadgeData = {
     badgeText: [
         {value: "You have commanded 50 Heavies in Recluse's Victory."}
     ],
-    acquisition: "Control 25 Heavies in Recluse's Victory",
+    acquisition: "Control 50 Heavies in Recluse's Victory",
     links: [
         {title: "Temporal Spy Badge", href: "https://paragonwiki.com/wiki/Temporal_Spy_Badge"}
     ],
