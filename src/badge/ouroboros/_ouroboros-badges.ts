@@ -75,7 +75,6 @@ import {Repairman} from "./repairman";
 import {Overhauler} from "./overhauler";
 import {TimeFixer} from "./time-fixer";
 import {OuroborosMender} from "./ouroboros-mender";
-import {PraetorianTourist} from "./praetorian-tourist";
 import {BronzeMedalist} from "./bronze-medalist";
 
 
@@ -167,6 +166,4 @@ export const OuroborosBadges: IBadgeData[] = [
     Overhauler,
     TimeFixer,
     OuroborosMender,
-
-    PraetorianTourist
 ];
