@@ -10,7 +10,7 @@ export class Thunderspy implements IServerGroupData {
     public readonly servers: IServerData[] = [
         {name: "COXG"}
     ];
-    public readonly repository: string = "https://github.com/n15g/coh-content-db-thunderspy";
+    public readonly repository: string = "https://github.com/psilupan/coh-content-db-thunderspy";
 
     public readonly archetypes: IArchetypeData[] = [
         {key: "arachnos-soldier", name: "Arachnos Soldier"},
