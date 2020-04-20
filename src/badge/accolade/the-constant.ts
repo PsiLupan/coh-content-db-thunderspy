@@ -1,8 +1,4 @@
 import {ALIGNMENT_HERO, BadgePartialType, BadgeType, IBadgeData} from "coh-content-db";
-import {EchoAtlasPark} from "../../map/echo-atlas-park";
-import {AtlasPark} from "../../map/atlas-park";
-import {WalkedDownMemoryLane} from "./walked-down-memory-lane";
-import {AtlasTourGuide} from "./atlas-tour-guide";
 
 export const TheConstant: IBadgeData = {
     type: BadgeType.ACCOLADE,

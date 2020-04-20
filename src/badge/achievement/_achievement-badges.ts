@@ -57,7 +57,6 @@ import {Gallant} from "./gallant";
 import {GiftedSpeaker} from "./gifted-speaker";
 import {GottaKeepEmSeparated} from "./gotta-keep-em-separated";
 import {GrassIsMeaner} from "./grass-is-meaner";
-import {GuardianOfForever} from "./guardian-of-forever";
 import {Guide} from "./guide";
 import {Hacker} from "./hacker";
 import {HeardTheCall} from "./heard-the-call";
