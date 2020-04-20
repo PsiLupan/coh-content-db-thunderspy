@@ -1,3 +1,3 @@
-export {Homecoming} from "./homecoming";
-export {HomecomingBadges} from "./homecoming-badges";
-export {HomecomingChangelog} from "./homecoming-changelog";
+export {Thunderspy} from "./thunderspy";
+export {ThunderspyBadges} from "./thunderspy-badges";
+export {ThunderspyChangelog} from "./thunderspy-changelog";
