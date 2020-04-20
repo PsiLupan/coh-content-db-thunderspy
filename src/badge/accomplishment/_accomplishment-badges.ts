@@ -1,5 +1,4 @@
 import {IBadgeData} from "coh-content-db";
-import {Gullible} from "./gullible";
 import {Rescuer} from "./rescuer";
 import {Accelerated} from "./accelerated";
 import {AceUpTheirSleeve} from "./ace-up-their-sleeve";
@@ -26,7 +25,6 @@ import {BrickstownsKeeper} from "./brickstowns-keeper";
 import {BrightestSun} from "./brightest-sun";
 import {BurkholdersBane} from "./burkholders-bane";
 import {Cabalist} from "./cabalist";
-import {Chameleon} from "./chameleon";
 import {Charmer} from "./charmer";
 import {Chatterbox} from "./chatterbox";
 import {CimeroranHero} from "./cimeroran-hero";
@@ -42,14 +40,12 @@ import {DeathDenied} from "./death-denied";
 import {DenialOfService} from "./denial-of-service";
 import {DestroyerOfStrength} from "./destroyer-of-strength";
 import {DimensionalInvestigator} from "./dimensional-investigator";
-import {DoNoHarm} from "./do-no-harm";
 import {EarToTheStreet} from "./ear-to-the-street";
 import {EfficiencyExpert} from "./efficiency-expert";
 import {Emancipator} from "./emancipator";
 import {EmbodimentOfLaw} from "./embodiment-of-law";
 import {Empowered} from "./empowered";
 import {EnemyOfTheState} from "./enemy-of-the-state";
-import {Escapist} from "./escapist";
 import {ExplosiveFinale} from "./explosive-finale";
 import {Exterminator} from "./exterminator";
 import {EyeOfVengeance} from "./eye-of-vengeance";
@@ -81,11 +77,9 @@ import {Leviathan} from "./leviathan";
 import {Liberator} from "./liberator";
 import {LongArmOfTheLaw} from "./long-arm-of-the-law";
 import {LostSavior} from "./lost-savior";
-import {LoyalCustomer} from "./loyal-customer";
 import {Loyalist} from "./loyalist";
 import {MadeAStand} from "./made-a-stand";
 import {MageHunter} from "./mage-hunter";
-import {Magistrate} from "./magistrate";
 import {ManticoresAssociate} from "./manticores-associate";
 import {MaskMaker} from "./mask-maker";
 import {MayhemsCreator} from "./mayhems-creator";
@@ -98,7 +92,6 @@ import {MysticalSavior} from "./mystical-savior";
 import {NaniteMan} from "./nanite-man";
 import {Negotiator} from "./negotiator";
 import {NuminasCompatriot} from "./numinas-compatriot";
-import {Obliterator} from "./obliterator";
 import {OneOfTheEight} from "./one-of-the-eight";
 import {Oobatz} from "./oobatz";
 import {OriginOfPower} from "./origin-of-power";
@@ -151,7 +144,6 @@ import {Streetwise} from "./streetwise";
 import {Strikebreaker} from "./strikebreaker";
 import {Supernova} from "./supernova";
 import {Surefooted} from "./surefooted";
-import {Survivor} from "./survivor";
 import {SynapsesCohort} from "./synapses-cohort";
 import {TakedownArtist} from "./takedown-artist";
 import {TemporalStrife} from "./temporal-strife";
@@ -167,9 +159,7 @@ import {TheTimelessAdventurer} from "./the-timeless-adventurer";
 import {TippedOff} from "./tipped-off";
 import {Transcendent} from "./transcendent";
 import {Transmogrified} from "./transmogrified";
-import {TrueNemesis} from "./true-nemesis";
 import {TruthTeller} from "./truth-teller";
-import {Tyrant} from "./tyrant";
 import {UndergroundSeeker} from "./underground-seeker";
 import {VillainOfTheMonth} from "./villain-of-the-month";
 import {WalkingThePath} from "./walking-the-path";
@@ -242,12 +232,7 @@ export const AccomplishmentBadges: IBadgeData[] = [
     MadeAStand,
     AvidReader,
     Loyalist,
-    Magistrate,
-    Tyrant,
     ResistanceMember,
-    Obliterator,
-    Survivor,
-    Escapist,
     PainKiller,
     ColumnBreaker,
     Arbiter,
@@ -279,17 +264,14 @@ export const AccomplishmentBadges: IBadgeData[] = [
     PlagueStopper,
     SpiritWarrior,
     Pwnz,
-    Chameleon,
     Redeemer,
     MysticalSavior,
     Corrupter,
     WarWallDefender,
     TheDoctorsAlly,
     Frontline,
-    DoNoHarm,
     Emancipator,
     Meteorologist,
-    TrueNemesis,
     Bodyguard,
     Agent,
     LandSeaAir,
@@ -312,7 +294,6 @@ export const AccomplishmentBadges: IBadgeData[] = [
     MentalVoyager,
     DeathDenied,
     SiblingRivalry,
-    LoyalCustomer,
     EyeOfVengeance,
     TheDeterminedMentor,
     KnifeButcher,
@@ -354,7 +335,6 @@ export const AccomplishmentBadges: IBadgeData[] = [
     YouShouldSeeTheOtherGuy,
     Oobatz,
     ProbationDenied,
-    Gullible,
     HonoraryPeacebringer,
     PortalSmasher,
     DestroyerOfStrength,

@@ -12,7 +12,7 @@ export const VanguardRecruit: IBadgeData = {
         value: "You have worked closely with Vanguard helping to eliminate the Rikti threat earning you the Vanguard Recruit Day Job." +
             " Logging out in the Vanguard Base will earn you a bonus to the number of Vanguard Merits you receive, when you log back in, each time you complete a mission for a short time."
     }],
-    acquisition: "Log out inside a Vanguard base for 100 hours.",
+    acquisition: "Log out inside a Vanguard base for 21 days.",
     effect: "Day Job: Bonus Vanguard Merits upon mission completion",
     notes: "You must be level 35 before this badge will unlock, however you can earn credit toward this badge before then.",
     links: [
