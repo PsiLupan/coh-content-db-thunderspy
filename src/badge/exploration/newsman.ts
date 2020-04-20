@@ -1,5 +1,5 @@
 import {ALIGNMENT_HERO, Alternate, BadgeType, IBadgeData} from "coh-content-db";
-import {EchoFaultline} from "../../map/echo-faultline";
+import {Faultline} from "../../map/faultline";
 
 export const Newsman: IBadgeData = {
     type: BadgeType.EXPLORATION,
@@ -12,11 +12,9 @@ export const Newsman: IBadgeData = {
     ],
     alignment: ALIGNMENT_HERO,
     badgeText: [{value: `The Theodore Knight building was home to many Super Groups in the years before the Rikti War.`}],
-    mapKey: EchoFaultline.key,
+    mapKey: Faultline.key,
     location: [1125.0, -26.9, 1296.7],
-    notes: "**Moved from [map:faultline] in Issue 25.**\n" +
-        "\n" +
-        " Approx. 513 yrds. S of the \"Dark Canyons\" marker in front of the doors to a grey stoned high-rise that's tilting into the canyon, next to the west perimeter wall.",
+    notes: "Approx. 513 yrds. S of the \"Dark Canyons\" marker in front of the doors to a grey stoned high-rise that's tilting into the canyon, next to the west perimeter wall.",
     links: [
         {title: "I25 Faultline badge changes", href: "https://forums.homecomingservers.com/topic/931-echo-falutline-badger-hunter-helpline/"}
     ],
