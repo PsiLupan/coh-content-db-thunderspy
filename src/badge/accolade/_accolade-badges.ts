@@ -40,7 +40,6 @@ import {ExMarshal} from "./ex-marshal";
 import {Exorcised} from "./exorcised";
 import {EyeOnArachnos} from "./eye-on-arachnos";
 import {FalseImage} from "./false-image";
-import {FashionVictim} from "./fashion-victim";
 import {FaultlineFinder} from "./faultline-finder";
 import {FieldCrafter} from "./field-crafter";
 import {FlamesOfPrometheus} from "./flames-of-prometheus";
@@ -125,7 +124,6 @@ export const AccoladeBadges: IBadgeData[] = [
     SharkBait,
     AntiVenom,
     Fwoosh,
-    ReclusesBetrayer,
     ExMarshal,
     YesterdaysNews,
     BornInBattle,
